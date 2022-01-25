@@ -141,7 +141,7 @@ ul.link-navigazione > li {
 
 main {
     width: 100%;
-    margin-top: 6rem;
+    margin-top: 12rem;
     margin-bottom: 12rem;
     position: relative;
 }
@@ -149,10 +149,10 @@ main {
 /* Prima sezione */
 
 .first-section {
-    width: 40%;
+    width: 50%;
     text-align: left;
     margin: 0 auto;
-    margin-bottom: 12rem;
+    margin-bottom: 15rem;
 }
 
 
@@ -171,12 +171,12 @@ main {
 }
 
 .first-section article {
-    width: 25%;
+    width: 27%;
     float: right;
 }
 
-article > h1 {
-    font-size: 4.0rem;
+article > h2 {
+    font-size: 5.0rem;
     line-height: 3rem;
     padding-bottom: 1rem;
     float: left;
@@ -191,10 +191,10 @@ article > p {
 /* Seconda sezione */
 
 .second-section {
-    width: 40%;
+    width: 50%;
     text-align: left;
     margin: 0 auto;
-    margin-bottom: 12rem;
+    margin-bottom: 15rem;
 }
 
 
@@ -213,17 +213,17 @@ article > p {
 }
 
 .second-section article {
-    width: 25%;
+    width: 27%;
     float: left;
 }
 
 /* Terza sezione */
 
 .third-section {
-    width: 40%;
+    width: 50%;
     text-align: left;
     margin: 0 auto;
-    margin-bottom: 12rem;
+    margin-bottom: 15rem;
 }
 
 
@@ -242,6 +242,6 @@ article > p {
 }
 
 .third-section article {
-    width: 25%;
+    width: 27%;
     float: right;
 }
